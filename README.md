@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://cloud.githubusercontent.com/assets/11370278/10808535/02230d46-7dc3-11e5-92d8-da15cae8c6e9.png" width="50%" alt="Blackbird Bitcoin Arbitrage">
 </p>
-
+// Port to JS + React Frontend
 ### Introduction
 
 Blackbird Bitcoin Arbitrage is a C++ trading system that does automatic long/short arbitrage between Bitcoin exchanges.
